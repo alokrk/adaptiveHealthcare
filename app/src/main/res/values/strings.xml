@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Adaptive Healthcare</string>
+    <string name="no_data">No data added</string>
+    <string name="load_data">Simulate Fall</string>
+    <string name="details">EMERGENCY HEALTH DETAILS\n\n
+        Name : Alok Kucheria\n
+        Age : 26\n
+        Insurance : BCBS\n
+        Blood Type : O+\n
+        Weigth : 150 lb\n
+        Height : 6\' \n\n
+        EMERGENCY CONTACT\n
+        Name : Rajkumar Kucheria\n
+        Relation : Father\n
+        Phone : 9623458962\n
+        Email : raju@pharmex.in\n</string>
+</resources>
